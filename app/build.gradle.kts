@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.konasl.nagad.parallel"
+    namespace = "com.konasl.nagad"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.konasl.nagad.parallel"
+        applicationId = "com.konasl.nagad"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
